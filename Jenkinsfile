@@ -49,7 +49,7 @@ pipeline {
             agent any
             steps {
                 echo 'main'
-		echo 'test for webhoook+github_updated'
+		echo 'test for webhoook+github+ngrok ip:port'
             }
         }
     }
