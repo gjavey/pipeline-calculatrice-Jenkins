@@ -49,7 +49,7 @@ pipeline {
             agent any
             steps {
                 echo 'main'
-		echo 'test for webhoook+token ngrok'
+		echo 'test for webhoook+token ngrok payload instead of webhook-github'
             }
         }
     }
