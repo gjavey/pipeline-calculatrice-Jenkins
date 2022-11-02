@@ -49,7 +49,7 @@ pipeline {
             agent any
             steps {
                 echo 'main'
-		echo 'test for webhoook+token ngrok http 8080'
+		echo 'test for webhoook+token ngrok http 8080_newupdate'
             }
         }
     }
